@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
+
 # 💫 About Me:
 💻 CS student from India exploring systems, scheduling algorithms, and practical DevOps.<br>🐳 Hands-on with Docker, Kubernetes (Minikube), microservices, and basic AWS deployments.<br>⚙️ Built custom projects and experimented with containerized scheduling setups.<br>📊 Worked on sentiment analysis and rating-prediction models and previously contributed to an NLP project at EY.<br>🛠️ Comfortable with Python and SQL, with a focus on improving existing code rather than over-engineering.<br>🏆 Winner of HPE Think-a-Thon 2025; this GitHub mostly has my experiments and learning-focused projects.<br>
 
