@@ -6,6 +6,9 @@
 # 💫 About Me:
 💻 CS student from India exploring systems, scheduling algorithms, and practical DevOps.<br>🐳 Hands-on with Docker, Kubernetes (Minikube), microservices, and basic AWS deployments.<br>⚙️ Built custom projects and experimented with containerized scheduling setups.<br>📊 Worked on sentiment analysis and rating-prediction models and previously contributed to an NLP project at EY.<br>🛠️ Comfortable with Python and SQL, with a focus on improving existing code rather than over-engineering.<br>🏆 Winner of HPE Think-a-Thon 2025; this GitHub mostly has my experiments and learning-focused projects.<br>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arham_100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhamjain9) 
